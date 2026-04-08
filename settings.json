@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KhujlipurCbk.ddns.net:41111",
+    "ip": "KhujlipurCbk.aternos.me",
     "port": 41111,
     "version": "1.21.11",
     "try-creative": false
